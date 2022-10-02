@@ -63,7 +63,7 @@ Hello everyone , I have completed project 1 called "Insertion Sort Project" whic
 
 # Merge Sort Project
 
-Hello everyone , I have completed project 2 called "Insertion Sort Project" which organized by [Patika.dev](https://www.patika.dev/tr)
+Hello everyone , I have completed project 2 called "Merge Sort Project" which organized by [Patika.dev](https://www.patika.dev/tr)
 
 ## Project 2
 
@@ -96,7 +96,7 @@ Hello everyone , I have completed project 2 called "Insertion Sort Project" whic
 
 # Binary Search Tree Project
 
-Hello everyone , I have completed project 3 called "Insertion Sort Project" which organized by [Patika.dev](https://www.patika.dev/tr)
+Hello everyone , I have completed project 3 called "Binary Search Tree Project" which organized by [Patika.dev](https://www.patika.dev/tr)
 
 ## Project 3
 
