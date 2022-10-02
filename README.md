@@ -57,3 +57,69 @@ Hello everyone , I have completed project 1 called "Insertion Sort Project" whic
 
 `| Step 6 --> [2,3,4,5,6,7,8,9,15] |`
 
+
+
+
+
+# Merge Sort Project
+
+Hello everyone , I have completed project 1 called "Insertion Sort Project" which organized by [Patika.dev](https://www.patika.dev/tr)
+
+## Project 2
+
+**[16,21,11,8,12,22] -> Merge Sort**
+
+### 1.Write the stages of the above given array according to the sort type.
+
+#### Answer:
+
+`| Step 1 --> [16,21,11,8,12,22] |`
+
+`| Step 2 --> [16,21,11] - [8,12,22] |`
+
+`| Step 3 --> [16] - [21,11] -- [8,12] - [22] |`
+
+`| Step 4 --> [16] - [21] - [11] -- [8] - [12] - [22] |`
+
+`| Step 5 --> [16] - [11,21] -- [8,12] - [22] |`
+
+` | Step 6 --> [11,16,21] -- [8,12,22] |`
+
+`| Step 7 --> [8,11,12,16,21,22] |`
+
+### 2.Write the Big-O notation.
+
+#### Answer:
+
+`| O(n*(logn)) |`
+
+
+# Binary Search Tree Project
+
+Hello everyone , I have completed project 1 called "Insertion Sort Project" which organized by [Patika.dev](https://www.patika.dev/tr)
+
+## Project 3
+
+**[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] -> Binary-Search-Tree**
+
+### 1.Write the stages of the above given array according to the sort type.
+
+#### Answer:
+
+
+**Root = 7**
+
+										7
+									  /	\
+									5 	  8
+								   /\   	  \
+								  1 6		 9
+								 / \
+								0   3
+									/ \
+								  2    4
+
+
+
+**On the left of the root : 0,1,2,3,4,5,6
+On the right of the root : 8,9**
