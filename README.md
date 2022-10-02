@@ -109,17 +109,17 @@ Hello everyone , I have completed project 1 called "Insertion Sort Project" whic
 
 **Root = 7**
 
-										7
-									  /	\
-									5 	  8
-								   /\   	  \
-								  1 6		 9
-								 / \
-								0   3
-									/ \
-								  2    4
+	       7
+	      /	 \
+	     5 	  8
+	    / \     \
+	    1 6      9
+	   / \
+	  0   3
+	     / \
+	    2   4
 
 
 
-**On the left of the root : 0,1,2,3,4,5,6
-On the right of the root : 8,9**
+**On the left of the root : 0,1,2,3,4,5,6**
+**On the right of the root : 8,9**
